@@ -1,0 +1,25 @@
+{
+  "name": "be-karma-stacktrace-transforms",
+  "version": "1.0.0",
+  "description": "Behance Karma Stacktrace Transforms",
+  "main": "network.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrjoelkemp/be-karma-stacktrace-transforms.git"
+  },
+  "keywords": [
+    "karma",
+    "be-reporter",
+    "stacktrace",
+    "transform"
+  ],
+  "author": "Joel Kemp <joel@mrjoelkemp.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrjoelkemp/be-karma-stacktrace-transforms/issues"
+  },
+  "homepage": "https://github.com/mrjoelkemp/be-karma-stacktrace-transforms"
+}
